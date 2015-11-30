@@ -2,6 +2,7 @@
 </br>
 </br>
 
+
 #### Intro to Programming
 * [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf)
 * [CS for All](https://www.cs.hmc.edu/csforall/index.html#)
@@ -53,3 +54,5 @@
 #### Documentation and Reference
 * [Python 3.5 Docs](https://docs.python.org/3.5/)
 * [PyPI](https://pypi.python.org/pypi)
+
+To further ease learning, #ccs will be using Python 3 to learn and develop.
