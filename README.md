@@ -21,7 +21,6 @@
 * [Pythonhackers Top Projects](http://pythonhackers.com/open-source/?utm_source=main_page_link)
 *  [Python Learn](http://www.pythonlearn.com/)
 *  [Pineapple.io Python](http://pineapple.io/tags/python?sort=all_time)
-*  
 
 #### Documentation and Reference
 * [Python 3.3 Docs](https://docs.python.org/3.3/)
