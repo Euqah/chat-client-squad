@@ -54,5 +54,7 @@
 #### Documentation and Reference
 * [Python 3.5 Docs](https://docs.python.org/3.5/)
 * [PyPI](https://pypi.python.org/pypi)
+* [Think Python (for Python 3)](http://www.greenteapress.com/thinkpython2/thinkpython2.pdf)
+* [Dive into Python](http://www.diveintopython3.net)
 
 To further ease learning, #ccs will be using Python 3 to learn and develop.
