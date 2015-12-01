@@ -34,7 +34,7 @@
 
 #### Podcasts
 * [Talk Python to Me](http://talkpython.fm/)
-* [Podcast.__init__](http://podcastinit.com/)
+* [Podcast.init](http://podcastinit.com/)
 
 #### Curated Python packages lists
 * [awesome-python](https://github.com/vinta/awesome-python)
